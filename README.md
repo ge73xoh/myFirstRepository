@@ -1,2 +1,3 @@
 # myFirstRepository
-Towards data science. 
+Towards data science
+some new changes that I have just made
